@@ -1,0 +1,8 @@
+long_hair,forehead_width_cm,forehead_height_cm,nose_wide,nose_long,lips_thin,distance_nose_to_lip_long,gender,misclass
+1,0.658537,0.55,0,0,0,1,1,1
+1,0.365854,0.15,0,1,0,1,1,1
+1,0.341463,0.45,0,0,1,1,1,1
+1,0.073171,0.6,1,0,0,0,1,1
+1,0.243902,0.6,0,1,1,1,0,1
+1,0.365854,0.25,1,1,0,0,1,1
+1,0.707317,0.4,1,0,1,1,0,1

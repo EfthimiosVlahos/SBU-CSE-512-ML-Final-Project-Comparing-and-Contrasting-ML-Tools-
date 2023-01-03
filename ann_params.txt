@@ -1,0 +1,1 @@
+Best Score : 0.5885976129582268{'model__dropout': 0, 'model__hidden_layer_sizes': (50, 50), 'optimizer__lr': 0.05}
